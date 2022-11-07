@@ -11,7 +11,7 @@ This discord bot will allow users to join and play a game which condenses aspect
 ## How To Play
 1. Type #session on a channel to start a game session. (Players can only join newly created sessions)
 2. Each player types #join to join the session.
-3. Type #game to start a game.
+3. Type #start to start a game.
 
 At this point, the bot will DM each registered player with a description of the starting area. All commands available to the player in each location are indicated by the bot. Each command is preceded by the # character. 
 
@@ -24,24 +24,4 @@ The game has not been especially carefully balanced. Attribute values for the eq
 
 ## Other info
 
-MIT License
-
-Copyright (c) 2022 Dan Dixon
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+All licencing information follows as per the original project.
