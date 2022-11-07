@@ -75,4 +75,4 @@ class MyClient(discord.Client):
   
 
 client = MyClient()
-client.run('OTg4Mzc1NjcxMjk2Mzg5MTYz.Gb-BrN.oWKETIvMD5D1VYY0V-RbORYN4iifveTn6p5FXM')
+client.run('INSERT KEY HERE')
